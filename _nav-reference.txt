@@ -1,0 +1,15 @@
+<!-- SHARED HEADER — copy into each page, adjusting active class and relative asset paths -->
+<!-- For root pages: assets/styles.css  |  For subpages: ../assets/styles.css -->
+
+<!-- NAV STRUCTURE:
+Home (index.html)
+New Here > plan-your-visit | what-to-expect | children | youth
+Watch > watch-live | sermons
+Connect > community-groups | interest-groups
+Grow > growth-steps | academy | basic-leadership | advanced-leadership
+Events > events | snow | activate-2027 | elsap | equip | soar | god-moment
+Give (give.html)
+About > who-we-are | leadership | campuses/mainland | campuses/island | online-church
+Devotional (devotional.html)
+Contact (contact.html)
+-->
